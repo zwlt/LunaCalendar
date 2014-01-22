@@ -1,4 +1,4 @@
-﻿(function() {
+(function() {
 	var T = navigator.userAgent.indexOf("MSIE") != -1 && !window.opera;
 
 	function N(C) {
